@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "name": "Red Hat",
     "description": "Minimal Red Hat Universal Base Image(UBI) container with Git installed.",
-    "documentationURL": "https://github.com/Picardas/devcontainer-templates/tree/main/src/debian",
+    "documentationURL": "https://github.com/Picardas/devcontainer-templates/tree/main/src/ubi",
     "publisher": "Picardas",
     "licenseURL": "https://github.com/Picardas/devcontainer-templates/blob/main/LICENSE",
     "options": {
