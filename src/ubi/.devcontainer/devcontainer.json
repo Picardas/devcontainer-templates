@@ -2,7 +2,7 @@
 {
 	"name": "Red Hat",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "registry.access.redhat.com/ubi${templateOption:imageVariant}/ubi-minimal",
+	"image": "registry.access.redhat.com/ubi${templateOption:imageVariant}/ubi",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
