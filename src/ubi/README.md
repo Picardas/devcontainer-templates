@@ -1,7 +1,7 @@
 
-# Red Hat (ubi)
+# UBI (ubi)
 
-Minimal Red Hat Universal Base Image(UBI) container with Git installed.
+Red Hat Universal Base Image(UBI) container with Git installed.
 
 ## Options
 
